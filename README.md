@@ -2,7 +2,7 @@
 
 Sample contract for pet shop
 
-Adopt pet
-Check if adopted
-Retrieve all adopters
-Tests for contract
+1. Adopt pet
+2. Check if adopted
+3. Retrieve all adopters
+4. Tests for contract
